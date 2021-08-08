@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sibahle101
 - 👀 I’m interested in... Software Engineering
-- 🌱 I’m currently learning... Python, Java and Machine Learning
-- 💞️ I’m looking to collaborate on ...Machine Learning
+- 🌱 I’m currently learning... Python and Java 
+- 💞️ I’m looking to collaborate on ...Web and app development content
 - 📫 How to reach me ...
 eMail address> sibahlembhele94@gmail.com
 <!---
